@@ -1,0 +1,97 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.*.sw?
+.spyderproject
+.spyproject
+.ropeproject
+.project
+.pydevproject
+.settings/
+
+# Testing and coverage
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.nox/
+
+# Documentation
+docs/_build/
+site/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+jupyter_execute/
+*.ipynb
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment configuration
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Distribution / packaging
+MANIFEST
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
